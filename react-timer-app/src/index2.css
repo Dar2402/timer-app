@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    transition: background-color 0.5s ease;
+  }
+  
+  .timer-container {
+    text-align: center;
+  }
+  
+  .timer {
+    font-size: 4rem;
+    font-weight: bold;
+    color: #fff;
+  }
+  
